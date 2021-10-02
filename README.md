@@ -8,4 +8,6 @@ As the player, you must catch the different colored squares and match the color 
 
 It is recommended to play this game with a mouse and keyboard. More detailed instructions can be found within the game.
 
+Gameplay can be found [here] (https://youtu.be/PCw8dEvlEXo).
+
 Have fun! :)
